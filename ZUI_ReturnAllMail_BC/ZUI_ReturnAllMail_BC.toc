@@ -1,0 +1,5 @@
+## Interface: 20504
+## Title: Return All Mail
+## Author: ZUI
+
+core.lua
